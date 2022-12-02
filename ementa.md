@@ -17,7 +17,8 @@
 * L - Liskov substitution
 * I - Interface segregation
 * D - Dependency inversion
-* DRY - Don't repeat yourself
+
+# DRY - Don't repeat yourself
 
 # Estrutura de dados
 * Tipos de dados
