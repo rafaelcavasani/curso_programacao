@@ -37,7 +37,7 @@
 * Protocolo HTTP
 * REST
 
-# Projeto
+# Projeto 1
 * Jogo de truco
 
 # Testes
@@ -68,10 +68,11 @@
 # Sistemas distribuídos
 * Monolito
 * Arquitetura de micro-serviços
+* Stateless
 * Comunicação entre micro-serviços
-* HTTP
-* GRPC
-* Eventos
+   * HTTP
+   * GRPC
+   * Eventos
 * Arquitetura orientada a eventos
 
 # Banco de Dados
@@ -82,4 +83,18 @@
 
 # Docker
 * Containers x Virtualização
-* ...
+* Dockerfile
+* Docker compose
+* Preparação pro projeto 2:
+   * wiremock
+   * mysql
+   * sqs
+
+# Projeto 2
+* Sistema com micro-serviços para recarga de celular:
+   * BFF
+   * MS - Usuários e Autenticação
+   * MS - Recarga
+   * MS - Comunicação com o Usuário
+
+# CI/CD
