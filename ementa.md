@@ -98,3 +98,5 @@
    * MS - Comunicação com o Usuário
 
 # CI/CD
+
+# Observability
