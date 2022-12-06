@@ -1,10 +1,10 @@
 # Programação Orientada a Objetos
 * POO x Programação estruturada
 * Classe
-* Classes Abstratas
-* Interface
 * Encapsulamento
 * Herança
+* Classes Abstratas
+* Interface
 * Polimorfismo
 * Sobrescrita x Sobrecarga
 
