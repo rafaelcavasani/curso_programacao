@@ -30,9 +30,9 @@
 * Pilha
 * Array
 * Hash
-* Estruturas condicionais
 * Collections
 * Map
+* Estruturas condicionais
 * Estrutura de repetição
 * Recursividade
 
