@@ -30,8 +30,7 @@
 * Pilha
 * Array
 * Hash
-* Collections
-* Map
+* Collections -> List, Set e Map
 * Estruturas condicionais
 * Estrutura de repetição
 * Recursividade
